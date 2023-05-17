@@ -12,5 +12,6 @@ Collecton of tests of parallelization of data collections and ML Trainig in vari
   - XGBoost on AWS (xgboost_abalone_dist_script_mode-ST.ipynb)
     - with AWS's Framework
     - with AWS's Built-In Algorithm
+    - with AWS's Built-In Algorithm and PIPE MODE to address OOM Error - TBC
 
 Recomendations, Findings, Analysis and Notes in the individual files
