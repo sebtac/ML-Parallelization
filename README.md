@@ -21,5 +21,5 @@ Collecton of tests of parallelization of data collections and ML Trainig in vari
     - TRAIN PARALLELIZATION APPROACH: "TF - Mirrored Strategy", "SMD - Sage Maker Distributed", "MPI"
     - DATA PARALLELIZATION APPROACH: data sharding (4 and 120 Shards)
     - DATA SOURCE: S3, FSX for Lustre
-    - 
+
 Recomendations, Findings, Analysis and Notes in the individual files
